@@ -1,1 +1,1 @@
-alert("Hello World with V5.0");
+alert("Hello World with V7.0");
