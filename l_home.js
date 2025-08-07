@@ -1,3 +1,4 @@
+// Lamhaa Home v5.0
 var play_song = 'initial';
 var lamhaa_progress_timer = setInterval(function() {
     lamhaa_progress();
